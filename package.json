@@ -1,0 +1,14 @@
+{
+  "name": "visited",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pack.js",
+  "scripts": {
+    "pack": "node pack.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "adm-zip": "^0.5.16"
+  }
+}
