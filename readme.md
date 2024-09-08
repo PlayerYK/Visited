@@ -7,7 +7,7 @@ Visited is a browser extension that enhances your browsing experience by allowin
 - Offers easy customization with predefined colors or a color picker
 
 ## How to Use
-1. Install Visited from your browser's extension store
+1. Install Visited from your browser's extension store: [Visited](https://chromewebstore.google.com/detail/geodgckkcjhcndhnfkpbolfjjmdhibgd)
 2. Click the Visited icon in your toolbar to customize colors
 3. Choose a color and save to see instant results across all web pages
 
