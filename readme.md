@@ -1,6 +1,6 @@
 # Visited: Customize Your Web Navigation
 
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/geodgckkcjhcndhnfkpbolfjjmdhibgd?style=flat-square&logo=googlechrome&logoColor=white&label=stars)](https://chromewebstore.google.com/detail/visited/geodgckkcjhcndhnfkpbolfjjmdhibgd)
+[![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/geodgckkcjhcndhnfkpbolfjjmdhibgd?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/visited/geodgckkcjhcndhnfkpbolfjjmdhibgd)
 
 Visited is a browser extension that enhances your browsing experience by allowing you to personalize the color of visited links. This simple yet powerful tool helps you distinguish between new and previously viewed content effortlessly.
 
